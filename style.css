@@ -7,8 +7,8 @@
     PALETA DE CORES (CONTRASTE WCAG 2.1 AA - MÍNIMO DE 4.5:1):
     Cores escuras sobre fundo claro para garantir ótima legibilidade.
   */
-  --primary-color: #0d47a1;      /* Azul escuro (Contraste > 7:1 sobre fundo branco) */
-  --primary-hover: #002171;      /* Azul ainda mais escuro para o estado hover */
+  --primary-color: #a80046;      /* Azul escuro (Contraste > 7:1 sobre fundo branco) */
+  --primary-hover: #690046;      /* Azul ainda mais escuro para o estado hover */
   --secondary-color: #2e7d32;    /* Verde escuro acessível */
   --secondary-hover: #005005;    
   --text-color: #1c1c1c;         /* Preto suave para evitar fadiga visual mantendo alto contraste */
