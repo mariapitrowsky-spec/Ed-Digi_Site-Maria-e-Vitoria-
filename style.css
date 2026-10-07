@@ -7,16 +7,16 @@
     PALETA DE CORES (CONTRASTE WCAG 2.1 AA - MÍNIMO DE 4.5:1):
     Cores escuras sobre fundo claro para garantir ótima legibilidade.
   */
-  --primary-color: #a80046;      /* Azul escuro (Contraste > 7:1 sobre fundo branco) */
-  --primary-hover: #690046;      /* Azul ainda mais escuro para o estado hover */
-  --secondary-color: #2e7d32;    /* Verde escuro acessível */
+  --primary-color: #243ba1;      /* Azul escuro (Contraste > 7:1 sobre fundo branco) */
+  --primary-hover: #1b48c575;      /* Azul ainda mais escuro para o estado hover */
+  --secondary-color: #003d1f;    /* Verde escuro acessível */
   --secondary-hover: #005005;    
   --text-color: #1c1c1c;         /* Preto suave para evitar fadiga visual mantendo alto contraste */
   --text-muted: #4b5563;        /* Cinza escuro aprovado para textos secundários */
   --bg-light: #f8fafc;          /* Fundo suave off-white */
   --bg-white: #ffffff;
   --border-color: #cbd5e1;      /* Borda visível com contraste apropriado */
-  --focus-ring-color: #ff6f00;   /* Laranja de alto contraste para o anel de foco de teclado */
+  --focus-ring-color: #410111;   /* Laranja de alto contraste para o anel de foco de teclado */
   
   /* TIPOGRAFIA E ESPAÇAMENTOS (FONTES RELATIVAS EM REM): */
   --font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
